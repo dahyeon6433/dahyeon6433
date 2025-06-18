@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img alt="java" src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/>
 <!--
 **dahyeon6433/dahyeon6433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
