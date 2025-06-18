@@ -49,18 +49,18 @@
 </div>
 
 <br><br><br>
-<div align="center">
-  <h3>🚀 Projects</h3>
-  <hr>
-  <p>• 교통 정보 통합 웹 사이트</p>
-  🔗 <a href="https://github.com/Hoooouuuuu/trafficRoad.git" target="_blank">GitHub 바로가기</a>
-</div>
+<h3>🚀 Projects</h3>
+<hr style="width: 200px; text-align: left; margin-left: 0;" />
 
-<div align="center">
-  <br>
-  🎥 시연 영상  
-  <br>
-  <a href="https://www.youtube.com/watch?v=XCrXzT-H2WQ" target="_blank">
-    <img src="http://img.youtube.com/vi/XCrXzT-H2WQ/0.jpg" width="560" />
-  </a>
-</div>
+<h4><strong>• 교통 정보 통합 웹 사이트</strong></h4>
+<p>실시간 교통 현황, 서울시 실시간 공영주차장 정보, 날씨 연동, 커뮤니티 게시판 등을 통합한 교통 종합 플랫폼입니다.</p>
+
+<p>
+  🔗 <a href="https://github.com/Hoooouuuuu/trafficRoad.git" target="_blank"><strong>GitHub 저장소 바로가기</strong></a>
+</p>
+
+<h4>🎬 시연 영상</h4>
+<a href="https://www.youtube.com/watch?v=XCrXzT-H2WQ" target="_blank">
+  <img src="http://img.youtube.com/vi/XCrXzT-H2WQ/0.jpg" width="560" alt="시연 영상 썸네일" />
+</a>
+
