@@ -1,6 +1,19 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=300&section=header&text=DaHyeon's&nbsp;GitHub&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=300&section=header&text=DaHyeon's&nbsp;GitHub&fontSize=90" />
 </div>
+
+<div align=center>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dahyeon6433&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/dahyeon6433"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
+
+<br><br><br>
+
 <div align="center">
   <h3>📚 Tech Stack 📚</h3>
 </div>
@@ -45,7 +58,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </div>
 
-<br><br><br>
+<br><br>
+
 <h3>🚀 Projects</h3>
 <hr style="width: 200px; text-align: left; margin-left: 0;" />
 
