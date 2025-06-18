@@ -8,11 +8,11 @@
       src="https://render.gitanimals.org/farms/dahyeon6433"
       width="600"
       height="300"
-    />
+     />
   </a>
 </div>
 
-<br><br><br>
+<br><br>
 
 <div align="center">
   <h3>📚 Tech Stack 📚</h3>
