@@ -5,7 +5,6 @@
   <h3>📚 Tech Stack 📚</h3>
 </div>
 
-<!-- 💡 Frontend -->
 <div align="center">
   <h4>🎨 Frontend</h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -15,14 +14,12 @@
   <img src="https://img.shields.io/badge/Font Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white" />
 </div>
 
-<!-- 💡 Template Engine -->
 <div align="center">
   <h4>🧩 Template Engine</h4>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white" />
   <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=Java&logoColor=white" />
 </div>
 
-<!-- 💡 Backend -->
 <div align="center">
   <h4>⚙️ Backend</h4>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -31,14 +28,12 @@
   <img src="https://img.shields.io/badge/Lombok-%23FF5A00?style=flat&logo=java&logoColor=white" />
 </div>
 
-<!-- 💡 Database -->
 <div align="center">
   <h4>🗄️ Database</h4>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/pymysql-3776AB?style=flat&logo=Python&logoColor=white" />
 </div>
 
-<!-- 💡 Tools -->
 <div align="center">
   <h4>🛠 Tools</h4>
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
