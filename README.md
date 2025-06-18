@@ -30,6 +30,6 @@
 <div>
   <h3>🚀 Projects</h3>
   <hr>
-  <p>교통 정보 통합 웹 사이트</p>
+  <p>• 교통 정보 통합 웹 사이트</p>
   🔗 <a href="https://github.com/Hoooouuuuu/trafficRoad.git" target="_blank">GitHub 바로가기</a>
 </div>
