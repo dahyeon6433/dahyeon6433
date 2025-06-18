@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=200&section=header&text=DaHyeon's&nbsp;GitHub&fontSize=90)
+<div align=center>
+	![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=200&section=header&text=DaHyeon's&nbsp;GitHub&fontSize=90)
+</div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -24,7 +26,10 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
-🚀 Projects
-* * *
-- 교통 정보 통합 웹 사이트   
-  🔗[GitHub 바로가기](https://github.com/Hoooouuuuu/trafficRoad.git)
+
+<div align=center>
+	🚀 Projects
+	* * *
+	- 교통 정보 통합 웹 사이트   
+	  🔗[GitHub 바로가기](https://github.com/Hoooouuuuu/trafficRoad.git)
+</div>
