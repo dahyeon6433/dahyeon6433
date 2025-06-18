@@ -27,9 +27,9 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-<div align=center>
-	🚀 Projects
-	* * *
-	- 교통 정보 통합 웹 사이트   
-	  🔗[GitHub 바로가기](https://github.com/Hoooouuuuu/trafficRoad.git)
+<div align="center">
+  <h3>🚀 Projects</h3>
+  <hr>
+  <p>교통 정보 통합 웹 사이트</p>
+  🔗 <a href="https://github.com/Hoooouuuuu/trafficRoad.git" target="_blank">GitHub 바로가기</a>
 </div>
