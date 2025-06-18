@@ -1,8 +1,4 @@
 ## Hi there 👋
-<h3 align="center"><b>Code Lang</b></h3>
-<div align="center">
-
-</div>
 <!--
 **dahyeon6433/dahyeon6433** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
