@@ -3,7 +3,7 @@
 </div>
 
 <div align=end>
-  <a href="https://hits.sh/github.com/dahyeon6433/dahyeon6433/"><img alt="Hits" src="https://hits.sh/github.com/dahyeon6433/dahyeon6433.svg?logo=github"/></a>
+  <a href="https://hits.sh/github.com/dahyeon6433/dahyeon6433/"><img alt="Hits" src="https://hits.sh/github.com/dahyeon6433/dahyeon6433.svg?color=e289f3&logo=github"/></a>
 </div>
 
 <br>
