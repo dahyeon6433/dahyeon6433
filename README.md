@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=300&section=header&text=DaHyeon's&nbsp;GitHub&fontSize=90" />
 </div>
 
+<div align=end>
+  <a href="https://hits.sh/github.com/dahyeon6433/dahyeon6433/"><img alt="Hits" src="https://hits.sh/github.com/dahyeon6433/dahyeon6433.svg?logo=github"/></a>
+</div>
+
+<br>
+
 <div align=center>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=dahyeon6433&utm_content=farm">
     <img
